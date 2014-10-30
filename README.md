@@ -1,1 +1,1 @@
-Spare time game project backups.
+Spare time game project.
